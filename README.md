@@ -1,4 +1,4 @@
-# Features of this app
+# Product Exchange App - Book
 Design and implement a web application where people can exchange books and earn points
 Basic features of the app:
 
